@@ -1,0 +1,25 @@
+{
+  "name": "coffeechain",
+  "version": "1.0.0",
+  "description": "CoffeeChain is a simple blockchain library written in typescript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erasmosoares/CoffeeChain.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Erasmo Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erasmosoares/CoffeeChain/issues"
+  },
+  "homepage": "https://github.com/erasmosoares/CoffeeChain#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
